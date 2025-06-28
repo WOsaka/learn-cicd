@@ -43,7 +43,7 @@ jobs:
           version: "latest"
 
   security:
-    name: Style
+    name: Security
     runs-on: ubuntu-latest
 
     steps:
