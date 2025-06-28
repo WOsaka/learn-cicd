@@ -42,8 +42,7 @@ jobs:
         with:
           version: "latest"
 
-
-  style:
+  security:
     name: Style
     runs-on: ubuntu-latest
 
